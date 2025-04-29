@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kl-university-calculator/static/css/main.d643678b.css",
+    "main.js": "/kl-university-calculator/static/js/main.f644a308.js",
+    "static/js/453.7598bd89.chunk.js": "/kl-university-calculator/static/js/453.7598bd89.chunk.js",
+    "static/media/KLLogo.png": "/kl-university-calculator/static/media/KLLogo.22e8b4f7336d2c95f46c.png",
+    "index.html": "/kl-university-calculator/index.html",
+    "main.d643678b.css.map": "/kl-university-calculator/static/css/main.d643678b.css.map",
+    "main.f644a308.js.map": "/kl-university-calculator/static/js/main.f644a308.js.map",
+    "453.7598bd89.chunk.js.map": "/kl-university-calculator/static/js/453.7598bd89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d643678b.css",
+    "static/js/main.f644a308.js"
+  ]
+}
